@@ -1,0 +1,1 @@
+This is a chat app written in node / express, moment, socket.io, javascript
